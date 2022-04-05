@@ -1,0 +1,5 @@
+# NFTCollection-Presale-Public-Mint
+This project is integrated with my whitelist dapp to create a full NFTCollection release.
+
+
+NFTCollection is a sample collection that offers the user a chance to whitelist NFT's by interacting with the whitelist dapp and securing a spot on the whitelist by signing a transaction on our contract with test eth on the rinkeby network. Users then will be able to mint their NFT by interacting with the NFTCollection contract. After changing the boolean property to true for out startPresale function, whitelisted wallets will have 5 minutes to mint their NFT before the public mint begins. There is a total of 20 NFT's in Nick's NFTCollection.
